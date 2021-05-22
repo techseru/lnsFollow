@@ -23,9 +23,12 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩"
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mTech seru"
-echo -e "\e[1;91m [+] Telegram: \e[1;92m@techseru"
-echo -e "\e[1;91m [+] Instagram: \e[1;92mTechseru\e[1;97r"
+echo -e "\e[1;91m [+] YouTube:
+\e[1;92mTech seru"
+echo -e "\e[1;91m [+] Telegram:
+\e[1;92m@techseru"
+echo -e "\e[1;91m [+] Instagram:
+\e[1;92mTechseru\e[1;97r"
 echo ""
 
 }
